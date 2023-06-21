@@ -12,7 +12,7 @@ Sure, here is the same text formatted with Markdown:
 
 # Smart Contract Overview
 
-This smart contract represents a calendar system where users can create, invite others to, update, and accept invitations to events.
+This smart contract represents a calendar system where users can create events, invite others events, update, and accept invitations to calendar events.
 
 - **calendarName**: A public variable that stores the name of the calendar.
 
