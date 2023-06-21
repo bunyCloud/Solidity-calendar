@@ -2,15 +2,15 @@
 #Calendar Factory
 The Calendar factory is useful for when you need to deploy separate calendar for each user.
 
-#Telos Calendar
+#Telos Calendar Implementation
 The Telos calendar contract is used by the Calendar Factory as a template implementation for deployments. 
 
-#Calendar One
-Calendar one is my most recent calendar proof of concept. This calendar is designed as a public contract for use by many users. There is no factory as only one contract is deployed. Here is a summary of Calendar One contract functions:
+#CalendarOne
+CalendarOne is the most recent calendar proof of concept. This calendar is designed as a public contract for use by many users. There is no factory as only one contract is deployed. Here is a summary of CalendarOne contract functions:
 
 Sure, here is the same text formatted with Markdown:
 
-# Smart Contract Overview
+# CalendarOne Contract Overview
 
 This smart contract represents a calendar system where users can create events, invite others events, update, and accept invitations to calendar events.
 
