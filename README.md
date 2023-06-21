@@ -1,7 +1,3 @@
-# CalendarDapp
-Telos blockchain Calendar SmartContracts
-Contracts for creating Calendar events on the blockchain. 
-https://testnet.teloscan.io/address/0xB17E57249c7B606A54055F5ad99BAFBb30D694C1
 
 #Calendar Factory
 The Calendar factory is useful for when you need to deploy separate calendar for each user.
