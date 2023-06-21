@@ -2,7 +2,7 @@
 
 # CalendarOne Contract Overview
 
-This smart contract represents a calendar system where users can create events, invite others events, update, and accept invitations to calendar events.
+This smart contract represents a calendar system where users can create events, invite other users to events, update, and accept invitations to calendar events.
 
 - **calendarName**: A public variable that stores the name of the calendar.
 
